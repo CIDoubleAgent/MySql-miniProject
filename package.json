@@ -1,0 +1,24 @@
+{
+  "name": "MySql-miniProject",
+  "version": "1.0.0",
+  "description": "Class mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIDoubleAgent/MySql-miniProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CIDoubleAgent/MySql-miniProject/issues"
+  },
+  "homepage": "https://github.com/CIDoubleAgent/MySql-miniProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  }
+}
